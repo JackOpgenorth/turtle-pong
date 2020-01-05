@@ -7,7 +7,7 @@ To run it, use the terminal
 
 To do's:
 
-  - Come up with a better way of controling the computer paddle
+  - Come up with a better way of controlling the computer paddle
   - Add sound
   - Add a menu with different difficulties
   - Add a score counter
