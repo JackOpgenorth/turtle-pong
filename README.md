@@ -1,7 +1,7 @@
 # turtle-pong
 Simple program that uses the turtle module in python to create the game pong
 
-To run it, use the terminal
+Just use the Terminal to run it
 
 
 
