@@ -9,7 +9,7 @@ To do's:
 
   - Come up with a better way of controlling the computer paddle
   - Add sound
-  - Add a menu with different difficulties
+  - Add a main menu with different difficulties
   - Add a score counter
   - Come up with a better way of restarting the round once a goal has been scored
   - convert from .py to .exe (this SHOULD be easy but pyinstaller is being difficult)
