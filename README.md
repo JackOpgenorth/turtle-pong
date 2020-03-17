@@ -14,3 +14,5 @@ To do's:
   - Come up with a better way of restarting the round once a goal has been scored
   - convert from .py to .exe (this SHOULD be easy but pyinstaller is being difficult)
     
+
+I will finish this one day I promise
